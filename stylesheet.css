@@ -1,0 +1,20 @@
+h1 {
+    background-color: black;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  img {
+    display: block;
+    margin: auto;
+  }
+  ul {
+    border: 5px solid black;
+  }
+  li {
+    display: inline;
+    border-right: 1px solid black;
+    margin-right: 5px;
+    padding-right: 5px;
+  }
